@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ramesh-singh-20/trade-config-server
+          uri: https://github.com/ramesh-singh-20/trade-common-config
 
 server:
   port: 9196
